@@ -80,3 +80,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=max-machin&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-machin)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
